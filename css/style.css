@@ -31,7 +31,7 @@ header{
     rgba(0,0,0,.45),
     rgba(0,0,0,.45)
     ),
-    url("./assets/img/hero-aluva.png");
+    url("../assets/img/hero-aluva.png");
 
     background-size:cover;
     background-position:center;
@@ -319,7 +319,7 @@ header{
             rgba(0,0,0,.45),
             rgba(0,0,0,.45)
         ),
-        url("./assets/img/hero-aluva.png");
+        url("../assets/img/hero-aluva.png");
 
     background-size: cover;
     background-position: center;
@@ -335,7 +335,7 @@ header{
             rgba(0,0,0,.45),
             rgba(0,0,0,.45)
         ),
-        url("./assets/img/hero-aluva.png");
+        url("../assets/img/hero-aluva.png");
 
     background-size: cover;
     background-position: center;
